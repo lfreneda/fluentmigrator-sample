@@ -1,12 +1,14 @@
 # fluentmigrator-sample
 A fluentmigrator ( https://github.com/schambers/fluentmigrator ) sample
 
-#### Before start 
+#### Getting started
 
-##### database creation @ db
+##### Database creation
 
-You must create your database
+First of all, you have to create your database
 
-##### edit bats under tools/ folder
+##### Edit .bat's scripts under tools/ folder
 
-After created your db, you must edit migrate_up.bat and migrate_down.bat to set the correct connectionstring :)
+After created the database, you must edit migrate_up.bat and migrate_down.bat to set the correct connectionstring :)
+
+That's it
